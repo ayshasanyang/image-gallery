@@ -23,7 +23,7 @@ In this challenge, we built a **beautiful responsive image gallery** using **HTM
 
 # Demo Page
 
-Click [Here]() to view the page
+Click [Here](https://ayshasanyang.github.io/image-gallery/) to view the page
 
 ---
 
